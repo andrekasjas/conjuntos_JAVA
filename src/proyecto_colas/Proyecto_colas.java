@@ -11,7 +11,7 @@ public class Proyecto_colas
     } 
 }
 
-class fi
+class fifo
 {
     nodo cab;
     fifo()
